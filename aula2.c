@@ -43,7 +43,12 @@ int main (){
     if(soma <7){
         printf("reprovado\n");
     } else{
-        printf("aprovado\n");
+        printf("aprovaaaaado\n");
     }
+   
+
+
+
+    
    return 0;
 }
