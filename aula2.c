@@ -36,7 +36,7 @@ int main (){
     } else if (turno == 'n'){
      printf ("aluno do noturno\n");
     }else {
-        printf("turno digitado e invalido!!!\n");
+        printf("turno digitado e invalidoooooooooooo!!!\n");
 
     }
 
