@@ -31,12 +31,12 @@ int main (){
     
     
     if(turno == 'm'){
-        printf("aluno do matutinoooooooooo\n");
+        printf("aluno do matutino\n");
 
     } else if (turno == 'n'){
      printf ("aluno do noturno\n");
     }else {
-        printf("turno digitado e invalidoooooooooooo!!!\n");
+        printf("turno digitado e invalido!!!\n");
 
     }
 
