@@ -31,7 +31,7 @@ int main (){
     
     
     if(turno == 'm'){
-        printf("aluno do matutino\n");
+        printf("aluno do matutinoooooooooo\n");
 
     } else if (turno == 'n'){
      printf ("aluno do noturno\n");
@@ -43,12 +43,9 @@ int main (){
     if(soma <7){
         printf("reprovado\n");
     } else{
-        printf("aprovaaaaado\n");
+        printf("aprovado\n");
     }
    
 
-
-
-    
    return 0;
 }
